@@ -45,7 +45,7 @@ after cleaning up the dataframe, the result looks as follows:
  
 
 Weekly Summary:
-Differences between Urban, suburban, and rural fares.  The urban type generates twice the suburban city type, and the suburban types generates around four times (!) the rural city type. There is significant disparity between the three city types as illustrated below:
+Differences between Urban, suburban, and rural fares.  The urban type generates twice the suburban city type, and the suburban types generates around four times. The rural city type. There is significant disparity between the three city types as illustrated below:
 
 ![image](https://user-images.githubusercontent.com/93456209/145728609-64708a97-17af-4cfc-9532-1944a8e9218a.png)
 
