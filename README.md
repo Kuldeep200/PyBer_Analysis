@@ -52,7 +52,7 @@ Differences between Urban, suburban, and rural fares. Urban areas consistently s
 ![image](https://user-images.githubusercontent.com/93456209/145728609-64708a97-17af-4cfc-9532-1944a8e9218a.png)
 
 
-   #Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+  ##Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
   
 
 
