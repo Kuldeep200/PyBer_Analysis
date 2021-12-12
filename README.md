@@ -45,6 +45,8 @@ after cleaning up the dataframe, the result looks as follows:
  
 
 Weekly Summary:
+
+
 Differences between Urban, suburban, and rural fares. Urban areas consistently show higher total fare amounts when compared to Suburban and Rural areas. The Y-axis represents Total Fares ($USD) while the X-axis represents each month data was analyzed. There is significant disparity between the three city types as illustrated below:
 
 ![image](https://user-images.githubusercontent.com/93456209/145728609-64708a97-17af-4cfc-9532-1944a8e9218a.png)
