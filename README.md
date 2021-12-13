@@ -52,9 +52,9 @@ Differences between Urban, suburban, and rural fares. Urban areas consistently s
 ![image](https://user-images.githubusercontent.com/93456209/145728609-64708a97-17af-4cfc-9532-1944a8e9218a.png)
 
 
-  ##Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+    Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
   
 
 
- Based on the analysis, it is very clear that the most revenue is generated in Urban areas.Urban city have more population and people like taking rides instead of driving.  All three areas had higher fare in end of feb. This could be changed in weather.
+ Based on the analysis, it is very clear that the most revenue is generated in Urban areas.Urban city have more population and people like taking rides instead of driving. Suburban city had little bit less rides than urban city , could be possibale to less population.However, All three areas had higher fare in end of feb. This could be changed in weather.
 
